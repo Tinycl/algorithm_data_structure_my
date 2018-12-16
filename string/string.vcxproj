@@ -116,6 +116,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="huffman.cpp" />
+    <ClCompile Include="permutation.cpp" />
     <ClCompile Include="string_kmp.cpp" />
     <ClCompile Include="string_lcs.cpp" />
     <ClCompile Include="string_lis.cpp" />

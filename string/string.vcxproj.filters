@@ -30,5 +30,8 @@
     <ClCompile Include="huffman.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="permutation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

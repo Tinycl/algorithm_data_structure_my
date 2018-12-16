@@ -150,6 +150,7 @@ void HuffmanDecoding(HuffmanNode* pHuffmanTree,char *code, vector<int> pchar, ch
 	}
 	str[k] = '\0';
 }
+/*
 int main()
 {
 	const int N = 256;
@@ -195,3 +196,4 @@ int main()
 	system("pause");
 	return 0;
 }
+*/
