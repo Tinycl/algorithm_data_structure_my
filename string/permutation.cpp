@@ -93,10 +93,10 @@ bool GetNextPermutatio(int *array, int size)
 }
 int main()
 {
-	int array[] = { 1,2,2,3 };
+	int array[] = { 2,1,5,3,4 };
 	int size = sizeof(array) / sizeof(int);
 	while (GetNextPermutatio(array, size)) {
-		cout << array[0]<<array[1]<<array[2]<<array[3] << endl;
+		cout << array[0]<<array[1]<<array[2]<<array[3] <<array[4]<< endl;
 	}
 	system("pause");
 	return 0;
