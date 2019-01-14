@@ -1,13 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.28010.2050
+VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "string", "string\string.vcxproj", "{528A27A7-79B1-4F38-AAED-0DB79D2C3704}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "array", "array\array.vcxproj", "{BBA819EB-194A-4E60-A572-B97E17E17011}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tree", "tree\tree.vcxproj", "{F606145C-9B27-4894-A999-50DA5C62CAAD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "queue", "queue\queue.vcxproj", "{E817DD85-3E7D-4D57-B56D-3F6E9A5900C0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,6 +43,14 @@ Global
 		{F606145C-9B27-4894-A999-50DA5C62CAAD}.Release|x64.Build.0 = Release|x64
 		{F606145C-9B27-4894-A999-50DA5C62CAAD}.Release|x86.ActiveCfg = Release|Win32
 		{F606145C-9B27-4894-A999-50DA5C62CAAD}.Release|x86.Build.0 = Release|Win32
+		{E817DD85-3E7D-4D57-B56D-3F6E9A5900C0}.Debug|x64.ActiveCfg = Debug|x64
+		{E817DD85-3E7D-4D57-B56D-3F6E9A5900C0}.Debug|x64.Build.0 = Debug|x64
+		{E817DD85-3E7D-4D57-B56D-3F6E9A5900C0}.Debug|x86.ActiveCfg = Debug|Win32
+		{E817DD85-3E7D-4D57-B56D-3F6E9A5900C0}.Debug|x86.Build.0 = Debug|Win32
+		{E817DD85-3E7D-4D57-B56D-3F6E9A5900C0}.Release|x64.ActiveCfg = Release|x64
+		{E817DD85-3E7D-4D57-B56D-3F6E9A5900C0}.Release|x64.Build.0 = Release|x64
+		{E817DD85-3E7D-4D57-B56D-3F6E9A5900C0}.Release|x86.ActiveCfg = Release|Win32
+		{E817DD85-3E7D-4D57-B56D-3F6E9A5900C0}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
