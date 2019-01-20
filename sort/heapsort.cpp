@@ -53,6 +53,7 @@ void HeapSortFrontk(int* a, int size, int k) //前k个大的值
 		HeapAjust(a, 0, size);
 	}
 }
+/*
 int main()
 {
 	int aa[8] = {10,11,3,4,2,20,8,18};
@@ -63,3 +64,4 @@ int main()
 	system("pause");
 	return 0;
 }
+*/
